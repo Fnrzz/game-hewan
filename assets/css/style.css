@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Coiny&display=swap");
+
+@font-face {
+  font-family: "AdigianaUI";
+  src: url("/assets/font/AdigianaUI.ttf");
+}
+
+.text-shadow {
+  text-shadow: -3px -3px 0 #fff, 3px -3px 0 #fff, -3px 3px 0 #fff,
+    3px 3px 0 #fff;
+}
+
+body {
+  font-family: "AdigianaUI", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}

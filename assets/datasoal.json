@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "question": "Hewan Apakah ini?",
+    "image": "assets/images/char/soal1.png",
+    "options": [
+      { "option": "A", "answer": "Kucing", "correct": false },
+      { "option": "B", "answer": "Beruang", "correct": true },
+      { "option": "C", "answer": "Harimau", "correct": false }
+    ],
+    "option": "B",
+    "answer": "Beruang",
+    "explanation": "Beruang adalah hewan besar yang sangat kuat dan berbulu tebal. Beruang suka makan ikan, madu, dan buah-buahan. Beruang sangat pintar dan mampu berjalan dengan dua kaki seperti manusia, meskipun mereka lebih suka berjalan dengan empat kaki."
+  },
+  {
+    "id": 2,
+    "question": "Hewan Apakah ini?",
+    "image": "assets/images/char/soal2.png",
+    "options": [
+      { "option": "A", "answer": "Kelinci", "correct": false },
+      { "option": "B", "answer": "Anjing", "correct": false },
+      { "option": "C", "answer": "Kucing", "correct": true }
+    ],
+    "option": "B",
+    "answer": "Kucing",
+    "explanation": "Kucing adalah hewan yang imut dan berbulu lembut. Mereka memiliki telinga yang tajam.Kucing suka makan ikan dan daging. Kucing juga bisa melompat tinggi dan bermain dengan bola benang atau bola berbulu."
+  },
+  {
+    "id": 3,
+    "question": "Hewan Apakah ini?",
+    "image": "assets/images/char/soal3.png",
+    "options": [
+      { "option": "A", "answer": "Tupai", "correct": true },
+      { "option": "B", "answer": "Anjing", "correct": false },
+      { "option": "C", "answer": "Kucing", "correct": false }
+    ],
+    "option": "A",
+    "answer": "Tupai",
+    "explanation": "Tupai adalah hewan kecil yang sangat lincah dan aktif. Mereka memiliki bulu yang lembut dan ekor yang panjang.Tupai suka makan buah-buahan, biji-bijian, dan kacang-kacangan. Mereka sangat pintar dalam mencari makanan dan bisa naik ke pohon dengan cepat."
+  }
+]
